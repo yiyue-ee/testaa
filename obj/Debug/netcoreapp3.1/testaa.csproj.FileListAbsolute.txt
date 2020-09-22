@@ -1,0 +1,13 @@
+D:\C#\testaa\bin\Debug\netcoreapp3.1\testaa.exe
+D:\C#\testaa\bin\Debug\netcoreapp3.1\testaa.deps.json
+D:\C#\testaa\bin\Debug\netcoreapp3.1\testaa.runtimeconfig.json
+D:\C#\testaa\bin\Debug\netcoreapp3.1\testaa.runtimeconfig.dev.json
+D:\C#\testaa\bin\Debug\netcoreapp3.1\testaa.dll
+D:\C#\testaa\bin\Debug\netcoreapp3.1\testaa.pdb
+D:\C#\testaa\obj\Debug\netcoreapp3.1\testaa.csprojAssemblyReference.cache
+D:\C#\testaa\obj\Debug\netcoreapp3.1\testaa.AssemblyInfoInputs.cache
+D:\C#\testaa\obj\Debug\netcoreapp3.1\testaa.AssemblyInfo.cs
+D:\C#\testaa\obj\Debug\netcoreapp3.1\testaa.csproj.CoreCompileInputs.cache
+D:\C#\testaa\obj\Debug\netcoreapp3.1\testaa.dll
+D:\C#\testaa\obj\Debug\netcoreapp3.1\testaa.pdb
+D:\C#\testaa\obj\Debug\netcoreapp3.1\testaa.genruntimeconfig.cache
